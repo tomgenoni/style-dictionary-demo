@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "style-dictionary": "^3.0.2"
+  },
+  "scripts": {
+    "build" : "cd example && style-dictionary build"
   }
 }
